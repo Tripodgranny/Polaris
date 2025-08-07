@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{8C8B7F3E-9BBD-4B13-AE29-227EE3365299}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polaris", "Polaris\Polaris.vcxproj", "{A5CEFCB4-7598-40B4-8F02-216A0756512D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5CEFCB4-7598-40B4-8F02-216A0756512D}.Debug|x64.ActiveCfg = Debug|x64
+		{A5CEFCB4-7598-40B4-8F02-216A0756512D}.Debug|x64.Build.0 = Debug|x64
+		{A5CEFCB4-7598-40B4-8F02-216A0756512D}.Release|x64.ActiveCfg = Release|x64
+		{A5CEFCB4-7598-40B4-8F02-216A0756512D}.Release|x64.Build.0 = Release|x64
+		{8C8B7F3E-9BBD-4B13-AE29-227EE3365299}.Debug|x64.ActiveCfg = Debug|x64
+		{8C8B7F3E-9BBD-4B13-AE29-227EE3365299}.Debug|x64.Build.0 = Debug|x64
+		{8C8B7F3E-9BBD-4B13-AE29-227EE3365299}.Release|x64.ActiveCfg = Release|x64
+		{8C8B7F3E-9BBD-4B13-AE29-227EE3365299}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D936A06-902C-4930-A79E-0DCDC148D818}
+	EndGlobalSection
+EndGlobal
