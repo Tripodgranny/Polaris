@@ -1,0 +1,3 @@
+[submodule "Polaris/vendor/spdlog"]
+	path = Polaris/vendor/spdlog
+	url = https://github.com/gabime/spdlog
